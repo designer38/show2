@@ -1,0 +1,53 @@
+.about-section{
+    background-color: $lightcolor;
+    .main-text {
+        font-size: 30px;
+        font-family: "lato";
+        font-weight: 700;
+        color: $redcolor;
+        padding-top: 6rem;
+        padding-left: 7.5rem;
+    }
+    .main-text2{
+        font-size: 30px;
+        font-family: "lato";
+        font-weight: "regular";
+        color: white;
+       
+        padding-left: 7.5rem;
+    }
+    .content-text{
+        font-size: 18px;
+        font-family: "lato";
+        font-weight: "regular";
+        color: $darkcolor;
+        width:300px;
+        margin-left: 2rem;
+    }
+    .content-text2{
+        font-size: 18px;
+        font-family: "lato";
+        font-weight: "regular";
+        color:white;
+        width:300px;
+        margin-left: 2rem;
+    }
+    .img-content{
+        width:200px;
+        height: 200px;
+        margin-left: 7rem;
+    }
+    .right-section{
+       
+        background-color: $redcolor;
+        -webkit-clip-path: polygon(23% 13%, 100% 13%, 100% 100%, 0 100%, 13% 50%);
+clip-path: polygon(23% 13%, 100% 13%, 100% 100%, 0 100%, 13% 50%);
+padding-top:10rem;
+padding-left:2rem;
+padding-bottom:2rem;
+    }
+    .left-section {
+        margin-top: 4rem;
+        
+    }
+}

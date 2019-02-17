@@ -1,0 +1,22 @@
+.history-section{
+    .history-box{
+        background-color: white;
+        border:solid $redcolor 3px;
+        margin:2rem;
+    }
+   
+    .main-text {
+        background-color: white;
+        font-size: 30px;
+        font-family: "lato";
+        font-weight: 700;
+        color: $redcolor;
+        
+        text-align: center;
+        
+    }
+    .history-content{
+       text-align: center;
+        
+    }
+}
